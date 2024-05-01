@@ -1,6 +1,6 @@
 // how can you return a character a the specific index:
 
-const str = "ey THIS IS NIKHIL MEHRA";
+const str = "hey THIS IS NIKHIL MEHRA";
 const letter = str.charAt(0).toUpperCase();
 
 const substr = str.substring(1);

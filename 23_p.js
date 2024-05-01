@@ -24,6 +24,6 @@ let students = [10, 11, 12, 13, 15];
 
 /* Technique -4*/
 
-students.splice(0, students.length);
-console.log(students.length);
-console.log(students);
+// students.splice(0, students.length);
+// console.log(students.length);
+// console.log(students);

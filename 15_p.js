@@ -10,7 +10,7 @@ const employees = {
   dept: "computer science",
 };
 
-// const newEmployeeObj = object.assign({}, employees);
+// const newEmployeeObj = Object.assign({}, employees);
 // console.log(newEmployeeObj);
 
 // 2.spread operator:
